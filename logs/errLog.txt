@@ -1,0 +1,15 @@
+20230821	09:18:40	1e45502f-60ec-420d-affa-6d5acbfc1747	SyntaxError: Unexpected number in JSON at position 168
+20230821	09:36:07	0f728809-14bc-49fb-bdce-9c441d994555	SyntaxError: Unexpected token , in JSON at position 192
+20230821	09:54:39	a502ad3c-3267-452a-a8b7-ae6c240b3a0c	TypeError: filters is not a function
+20230821	10:00:18	c559bcbe-9bcf-4cd0-8dce-e5b3d71fde76	ReferenceError: dueDate is not defined
+20230821	10:00:26	8b7dfc4e-a691-42bf-a911-83d3112af6c6	ReferenceError: dueDate is not defined
+20230821	10:00:43	fef30e09-ce59-4d1d-844c-952dd33de23b	ReferenceError: dueDate is not defined
+20230821	10:22:41	5f47b665-46bb-4e53-983d-47f5234a43b5	TypeError: tasksDB.setTasks.sort is not a function
+20230821	10:23:01	eea9bf8c-f864-4813-bdc4-56a74d84cf33	TypeError: tasksDB.setTasks.sort is not a function
+20230821	10:23:23	89893d5f-b8f8-4b3d-be4b-e3eddc665276	Error: Cannot set headers after they are sent to the client
+20230821	10:23:45	2b59e5ab-127b-4683-a888-ab09cff622a2	Error: Cannot set headers after they are sent to the client
+20230821	10:24:31	5a289e95-4c56-459e-9823-76800139e796	Error: Cannot set headers after they are sent to the client
+20230821	10:24:42	166e84ea-712d-4fea-b3ed-184313197d49	Error: Cannot set headers after they are sent to the client
+20230821	10:24:50	106a3e9e-af3c-4f37-8bd9-4bdc7d16af04	Error: Cannot set headers after they are sent to the client
+20230821	10:27:25	52c4f0c2-800f-48e5-a574-368bf0704b2a	Error: Cannot set headers after they are sent to the client
+20230821	10:27:58	d6b6668e-96b3-4166-90cd-38a8ebae4fb1	Error: Cannot set headers after they are sent to the client
