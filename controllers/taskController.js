@@ -9,8 +9,8 @@ const tasksDB = {
   },
 };
 
-const getAllTasksList = (req, res) => {
-taskService.getList(req , res , tasksDB)
+const getAllTasksList = async (req, res) => {
+await taskService.getList(req , res , tasksDB)
 };
 
 const createNewTask =  async (req, res) => {

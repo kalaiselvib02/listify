@@ -14,7 +14,6 @@ const tasksDB = {
 
 
 const getList = (req , res , dataArr) => {
-
   const isEmptyArr = helpers.checkEmptyArr(dataArr);
 
   if(isEmptyArr){
@@ -28,8 +27,13 @@ const getList = (req , res , dataArr) => {
 }
 
 const displayTasksList = (req , res , dataArr) => {
+
+
             
     const { title, priority, dueDate, page, limit , sortVal } = req.query;
+
+
+
 
     if(sortVal) {
      sortTasksList(req , res , dataArr)
